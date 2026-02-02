@@ -1,4 +1,4 @@
-package com.example.kotlin_basic.ui.login
+package com.example.kotlin_basic.logic.login
 import androidx.lifecycle.*
 import com.example.kotlin_basic.data.model.LoginRequest
 import com.example.kotlin_basic.data.model.LoginResponse
